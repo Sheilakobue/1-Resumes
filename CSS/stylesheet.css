@@ -1,0 +1,28 @@
+  header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-color:rgb(68, 91, 206);
+     color:aliceblue;
+     text-align: center;  
+     img {
+     border-radius: 50%; 
+     }
+}
+body{
+    background-color: bisque;
+}
+aside{
+    background-color: black;
+    width: 20%; height: 20%
+    text-align: left;
+    color: white;
+}
+
+a{
+    color:purple;
+}
+
+footer{
+    background-color: rgb(0, 119, 255);
+    color: white;
+}
