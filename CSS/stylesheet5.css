@@ -1,0 +1,42 @@
+  header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    background-color:rgb(78, 128, 164);
+     color:aliceblue;
+     text-align: center;  
+        
+}
+img{
+    border-radius: 50%;
+}
+
+aside{
+    background-color: rgb(141, 196, 242);
+    width: 30%; height: 40%
+    text-align: left;
+    color: white;
+}
+
+body{
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-style: groove;
+    border-width: 5px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: rgb(20, 64, 139);
+    border-radius: 5px 5px 5px 5px;  
+
+}
+
+a{
+    color:blue;
+}
+
+footer{
+    background-color:rgb(78, 128, 164) ;
+    color: white;
+}
