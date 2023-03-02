@@ -9,12 +9,16 @@ header{
      margin-top: 1%;
      padding-top: 1%;
      padding-bottom: 1%;
-     
+        
         
 }
 img{
-    border-radius: 50%;
     
+       border-style: solid;
+       border-width: 10px;
+       border-radius: 30px;
+                 
+
 }
 
 aside{
