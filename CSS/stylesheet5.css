@@ -3,7 +3,13 @@
     font-size: larger;
     background-color:rgb(78, 128, 164);
      color:aliceblue;
-     text-align: center;  
+     text-align: center; 
+     margin-left: 1%;
+     margin-right: 1%;
+     margin-top: 1%;
+     padding-top: 1%;
+     padding-bottom: 1%;
+     
         
 }
 img{
@@ -11,19 +17,36 @@ img{
 }
 
 aside{
-    background-color: rgb(141, 196, 242);
-    width: 30%; height: 40%
+    background-color: rgb(162, 198, 227);
+    width: 30%; height: 20%;
     text-align: left;
     color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    font-size: 20px;
+
+}
+.content {
+    
+    margin-left: 1%;
+    margin-right: 1%;
+    
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+
 }
 
 body{
     
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    border-style: groove;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+    border-style: double;
     border-width: 5px;
     border-left-width: 5px;
     border-right-width: 5px;
@@ -39,4 +62,10 @@ a{
 footer{
     background-color:rgb(78, 128, 164) ;
     color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 1%;
 }
