@@ -9,15 +9,18 @@ header{
      margin-top: 1%;
      padding-top: 1%;
      padding-bottom: 1%;
-        
+     div{
+      border-radius: 30px;
+    }
         
 }
+
 img{
     
        border-style: solid;
        border-width: 10px;
-       border-radius: 30px;
-                 
+       border-radius: 30px;  
+        
 
 }
 
